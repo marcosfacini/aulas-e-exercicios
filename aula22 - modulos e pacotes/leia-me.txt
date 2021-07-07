@@ -1,0 +1,3 @@
+Os exercicios não vão funcionar dentro dessas pastas, teria que colocar cada pasta individualmente na área de trabalho para que eles funcionem
+Por isso que não tem o exercicio 111
+No VScode tem que criar e importar os pacotes manualmente

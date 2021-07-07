@@ -1,0 +1,6 @@
+marcos;28
+carlos;78
+kaka;3
+eder;55
+dado;1
+wesley;22
